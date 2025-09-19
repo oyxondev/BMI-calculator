@@ -1,7 +1,7 @@
-import BMICalculator from "@/components/BMICalculator";
+import Portfolio from "@/components/Portfolio";
 
 const Index = () => {
-  return <BMICalculator />;
+  return <Portfolio />;
 };
 
 export default Index;

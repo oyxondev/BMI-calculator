@@ -47,6 +47,12 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        health: {
+          underweight: "hsl(var(--health-underweight))",
+          normal: "hsl(var(--health-normal))",
+          overweight: "hsl(var(--health-overweight))",
+          obesity: "hsl(var(--health-obesity))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
